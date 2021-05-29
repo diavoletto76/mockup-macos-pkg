@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>d76.mockup-job</string>
+    <key>Program</key>
+    <string>/usr/local/bin/mockup-job.sh</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>arg1</string>
+        <string>arg2</string>
+        <string>arg3</string>
+    </array>
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Second</key>
+        <integer>0</integer>
+    </dict>
+    <key>StandardOutPath</key>
+    <string>/var/tmp/mockup-job.out</string>    
+</dict>
+</plist>

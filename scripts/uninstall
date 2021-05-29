@@ -1,0 +1,11 @@
+#!/bin/sh
+
+launchctl unload /Library/LaunchDaemons/d76.mockup-job.plist
+
+rm -f /Library/LaunchDaemons/d76.mockup-job.plist
+rm -f /var/tmp/mockup-job.out
+rm -f /usr/local/bin/mockup-job.sh
+
+pkgutil --forget d76.mockup-job
+
+rm -f /var/tmp/.d76.mockup-job.done

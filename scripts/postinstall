@@ -1,0 +1,5 @@
+#!/bin/sh
+
+launchctl load /Library/LaunchDaemons/d76.mockup-job.plist
+
+touch /var/tmp/.d76.mockup-job.done
