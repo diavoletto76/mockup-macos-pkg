@@ -6,7 +6,7 @@ jobs or deamons on macOS. Tasks are performed with standard macOS tools
 
 ## Usefull commands
 
-### Load/unload LauncDaemon job
+### Load/unload LaunchDaemon job
 
 Bootstraps a service or directory of services and respectively unloads a
 service or directory of services.
@@ -41,4 +41,4 @@ sudo launchctl kickstart system/d76.mockup-job
 
 ### Links
 
-- [https://scriptingosx.com/](Scripting OSX)
+- [Scripting OSX](https://scriptingosx.com/)
