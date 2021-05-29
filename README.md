@@ -41,4 +41,4 @@ sudo launchctl kickstart system/d76.mockup-job
 
 ### Links
 
-- [https://scriptingosx.com/](Scripting OSX)
+- [Scripting OSX](https://scriptingosx.com/)
