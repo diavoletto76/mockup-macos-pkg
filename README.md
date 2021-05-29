@@ -1,7 +1,7 @@
 # Mockup macOS PKG
 
 Mockup project containing experiments with packaging and installing custom
-jobs or deamons on macOS. Tasks are performed with standard macOS tools such
+jobs or deamons on macOS. Tasks are performed with standard macOS tools
 `pkgbuild` and `installer`.
 
 ## Usefull commands
@@ -32,13 +32,13 @@ sudo launchctl kickstart system/d76.mockup-job
 
 ## Resources
 
-## Manual pages
+### Manual pages
 
 - man `pkgbuild`
 - man `installer`
 - man `pkgutil`
 - man `launchctl`
 
-## Links
+### Links
 
 - [https://scriptingosx.com/](Scripting OSX)
