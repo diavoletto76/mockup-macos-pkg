@@ -1,0 +1,7 @@
+#!/bin/sh
+
+FILE=/Library/LaunchDaemons/d76.mockup-job.plist
+
+if [ -f "$FILE" ]; then
+    launchctl unload $FILE
+fi
