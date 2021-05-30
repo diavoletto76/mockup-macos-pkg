@@ -1,0 +1,4 @@
+#!/bin/sh
+
+rm -f /usr/local/bin/bb
+pkgutil --forget d76.mockup-bb
