@@ -8,6 +8,7 @@
     <string>/usr/local/bin/mockup-job.sh</string>
     <key>ProgramArguments</key>
     <array>
+        <string>mockup-job.sh</string>
         <string>arg1</string>
         <string>arg2</string>
         <string>arg3</string>
